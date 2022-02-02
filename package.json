@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JackHowa/github-action-cache-test/issues"
   },
-  "homepage": "https://github.com/JackHowa/github-action-cache-test#readme"
+  "homepage": "https://github.com/JackHowa/github-action-cache-test#readme",
+  "dependencies": {
+    "@thrash-industries/react-actioncable-provider": "^3.0.8"
+  }
 }
